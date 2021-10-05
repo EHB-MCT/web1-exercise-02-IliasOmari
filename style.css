@@ -1,0 +1,30 @@
+body {
+    background-color: #e9eaea;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 50px;
+    font-size: 25px;
+}
+
+p {
+    color: grey;
+
+}
+
+h1 {
+    font-weight: none;
+    font-size: 35px;
+    color: #f65b5c
+}
+
+a {
+    border: 5px solid #f65b5c;
+    background-color: #f65b5c;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+    display: inline block
+}
+
+.grijs {
+    color: grey
+}
